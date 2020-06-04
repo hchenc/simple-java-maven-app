@@ -5,5 +5,7 @@ pipeline {
                sh 'echo hello'
                sh 'echo world' 
 
+    	    }
+	}
     }
 }
